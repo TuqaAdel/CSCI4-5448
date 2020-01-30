@@ -2,7 +2,7 @@
 # Q4
 # Name: Tuqa Alaithan. No team members.
 
-The classes are in the src folder. There are 3 classes needed to execute the program: Animals, Zookeeper, and Zoo.
+The classes and output file are in the src folder. There are 3 classes needed to execute the program: Animals, Zookeeper, and Zoo (main).
 
 Libraries used:
  java.util.*

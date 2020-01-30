@@ -5,9 +5,9 @@
 The classes and output file are in the src folder. There are 3 classes needed to execute the program: Animals, Zookeeper, and Zoo (main).
 
 Libraries used:
- java.util.*
- java.util.ArrayList
- java.util.Random
+ - java.util.*
+ - java.util.ArrayList
+ - java.util.Random
  
 References:
  1. Random object and random methods:
